@@ -832,6 +832,12 @@ h4 {
     background-image: url("img/image-de-presentation.jpg");
 }
 
+.center {
+    /* border: 1px solid red; */
+    margin-top: 25px;
+    padding-left: 40px;
+}
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
